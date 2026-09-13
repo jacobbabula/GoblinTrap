@@ -8,8 +8,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4659,
-      "sha256": "6a68327abb55b2256c9ff4716fd951b3b834392f3de228048b3500c06997ed4e"
+      "bytes": 4652,
+      "sha256": "d846d51119ef7fa4fc72d1e22addb80439683c82a95498f7fd134ce5a6056672"
     },
     {
       "path": "docs/V4_EXPERIMENT_SPEC.md",
@@ -23,13 +23,13 @@
     },
     {
       "path": "output/v4/GoblinTrap-v4-technical-brief.pdf",
-      "bytes": 17369,
-      "sha256": "6055d843bf3d33c4f50932bcd168cde31d9283250694945d10d5fd7794b905d3"
+      "bytes": 17277,
+      "sha256": "c809a00c2cba9bc16d09f09beb0c64c6c9937f26e1e3c399b57dee85570faa22"
     },
     {
       "path": "output/v4/README.md",
-      "bytes": 4659,
-      "sha256": "6a68327abb55b2256c9ff4716fd951b3b834392f3de228048b3500c06997ed4e"
+      "bytes": 4652,
+      "sha256": "d846d51119ef7fa4fc72d1e22addb80439683c82a95498f7fd134ce5a6056672"
     },
     {
       "path": "output/v4/analysis.json",
@@ -238,8 +238,8 @@
     },
     {
       "path": "scripts/build_budget_brief.py",
-      "bytes": 20989,
-      "sha256": "2a6c7a00fb4867d820dcc309eb57053d8c376f4e30bd45ab407d7e98eca4e9a9"
+      "bytes": 20964,
+      "sha256": "3991b9a44a21a34516b49dba9ad4a87b2345a08a5714a8bd407068b8912f30eb"
     },
     {
       "path": "scripts/package_budget_artifact.py",

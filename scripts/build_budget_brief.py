@@ -177,7 +177,7 @@ def build():
     def footer(canvas,doc):
         canvas.setStrokeColor(colors.HexColor('#bdcdd2')); canvas.line(72,49,540,49)
         canvas.setFont('Helvetica',8); canvas.setFillColor(colors.HexColor('#50636a'))
-        canvas.drawString(72,36,'GoblinTrap 0.4 | Offline symbolic study | Research report')
+        canvas.drawString(72,36,'GoblinTrap 0.4 | Research report')
         canvas.drawRightString(540,36,str(doc.page))
     pdf=OUT/'GoblinTrap-v4-technical-brief.pdf'
     SimpleDocTemplate(str(pdf),pagesize=(612,792),leftMargin=72,rightMargin=72,topMargin=55,bottomMargin=65,
