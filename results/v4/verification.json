@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "full_replay": true,
+  "total_rows_checked": 912840,
+  "choices_checked": 480,
+  "budget_rows_checked": 960,
+  "family_rows_checked": 2145,
+  "source_hashes_verified": true,
+  "scope": "Independent aggregate and selection implementation; replay shares simulation engine. No independent researcher or model validation."
+}

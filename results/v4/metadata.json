@@ -1,0 +1,13 @@
+{
+  "version": "0.4.0",
+  "status": "complete",
+  "total_trials": 912840,
+  "protocol_sha256": "09632d1e088f8386226b243506ab3a09abbfd4a8bdcb1c222845923e7a2207e0",
+  "choices_sha256": "47037227593b37863406b7e14ffebc231e2322a3ebcb47b37c8d5d06e4ceff06",
+  "source_sha256": {
+    "src/goblintrap/extended_engine.py": "d2a32fc92ee1d1a5e6c0ee267057772bb7e5decd33c1040e68f4f5fa3ef53fd1",
+    "src/goblintrap/budget_study.py": "05b830feaec6293b942fe0d9712c7341a3c129e2d19a279559edeba2f2f0caed",
+    "src/goblintrap/study.py": "1dda37e592d5716d8169425de26fda042082d03a0d079df69183d7df7c945e0c",
+    "src/goblintrap/engine.py": "aebbcb60e31f89774cc7ef4395f345b4fa20c4d38a6259dfae547b451a5cba83"
+  }
+}

@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "goblintrap"
+version = "0.4.0"
+description = "An offline symbolic study of deception, response latency, and containment"
+requires-python = ">=3.11"
+license = {text = "MIT"}
+
+[project.scripts]
+goblintrap = "goblintrap.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
