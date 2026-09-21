@@ -33,6 +33,3 @@ distribution. The v3 package and engine remain preserved.
 The shareable ZIP is verified for CRC, exact file inventory and every manifest
 SHA-256. Its receipt is output/v4/package-receipt.json. Extraction and packaged
 test/smoke-run checks are recorded separately in output/v4/package-smoke.json.
-
-This does not verify real-world realism, production deployment, participant
-authorship, eligibility, publication, submission or acceptance.
