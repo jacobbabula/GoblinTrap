@@ -103,4 +103,4 @@ splits, and replay every trial with the same engine. This checks reproducibility
 not the realism of the model or independence of the review. Uncertainty intervals
 are paired seed-cluster bootstraps, conditional on fixed calibrated choices and
 designed families. They do not include calibration selection uncertainty or
-world uncertainty. No empirical real-agent or production defense claim is made.
+world uncertainty.
