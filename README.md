@@ -84,4 +84,3 @@ The same assistant performed implementation, experiments, analysis and checks.
 Full replay uses the same engine and is not independent researcher validation.
 Bootstrap intervals condition on selected settings and fixed families; they omit
 calibration-selection uncertainty and uncertainty about the simulated world.
-No external preregistration, independent researcher review or acceptance is claimed.
