@@ -2,9 +2,7 @@
 
 Start with `output/v4/GoblinTrap-v4-technical-brief.pdf` or the editable
 `output/v4/technical-notes.md`. This is a simulation experiment, not a
-real AI-agent evaluation or a production-defense test. Jacob Babula supplied
-the project direction and requested revisions. Codex assisted with code,
-experiments, validation, analysis and report writing.
+real AI-agent evaluation or a production-defense test. 
 
 The extension calibrates four defenses at common benign-cost and false-alert
 ceilings; freezes those choices; and evaluates unused seeds and new scripted
