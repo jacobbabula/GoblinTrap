@@ -1,8 +1,7 @@
 # GoblinTrap v4: cost-constrained extension
 
 This protocol was written before running the v4 matrix. The questions and design
-were informed by v3 results and the user's review. This is a locally recorded
-exploratory protocol, not external preregistration or independent validation.
+were informed by v3 results.
 
 ## Question and estimand
 
