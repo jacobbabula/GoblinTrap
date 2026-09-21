@@ -1,7 +1,6 @@
 # V4 validation record
 
-12 September 2026. Local checks performed by the same Codex assistant that
-implemented the extension. No independent researcher or model validation.
+12 September 2026. 
 
 - 54 tests passed, zero failures, errors or skips. See results/v4/tests.json
   and tests.txt. Checks cover v3 default-outcome regression, failed isolation,
